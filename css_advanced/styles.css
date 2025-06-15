@@ -305,8 +305,8 @@ ul{
   box-shadow: 0 1px 4px rgba(0,0,0,0.08);
 }
 .fa-solid.fa-star {
-  color: #C271FF !important;
-  font-size: 1.2rem !important;
+  color: #FFD700 !important;
+  font-size: 0.7rem !important;
   display: inline-block;
   vertical-align: middle;
 }
